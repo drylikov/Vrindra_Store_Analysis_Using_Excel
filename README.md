@@ -74,7 +74,6 @@
 
 
 
-
 ![Dashboard Preview](Dashboard_Screenshot.png)
 
 # Vrinda Store Data Analysis
